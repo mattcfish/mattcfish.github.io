@@ -7,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            mattcfish
 tagline:          ''
-description:      'a busy dad learns investing'
+description:      'busy dad learns investing'
 url:              https://mattcfish.com
 baseurl:          /
 
@@ -18,7 +18,4 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+version:          1.0.0
